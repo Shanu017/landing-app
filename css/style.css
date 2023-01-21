@@ -1,0 +1,99 @@
+/* * {
+  margin: 0 !important;
+  padding: 0 !important;
+} */
+/* header part  */
+header {
+  background: url(/img/hero-bg.png) no-repeat center;
+  background-size: cover;
+  margin-bottom: -250px;
+}
+
+header nav ul li {
+  padding: 0px 20px;
+}
+
+/* About Part */
+#about {
+  background: url(/img/about-bg.png) no-repeat;
+  background-size: cover;
+  padding: 250px 0px 150px;
+  backface-visibility: hidden;
+}
+
+.container {
+  padding-top: 117px;
+}
+
+.aboutThree {
+  background-color: #fafafc;
+}
+.about3-text-part {
+}
+
+/* About Four  */
+
+.aboutFour {
+  background-color: #0ed1f0;
+}
+
+.about-4-text {
+  padding-top: 200px;
+}
+
+.aboutFourBtn {
+  text-align: center !important;
+  text-decoration: none;
+  position: relative;
+  top: 18px;
+}
+
+.aboutFourBtn a {
+  padding: 10px 50px;
+}
+.aboutFourBtn a:hover {
+  background: transparent;
+  color: black;
+}
+/* About Five  */
+
+.aboutFive {
+  height: 600px;
+  margin: auto;
+}
+
+.aboutFiveInfo {
+  padding: 0px 10px !important;
+}
+
+.aboutFive-2nd-part {
+  text-align: center !important;
+  margin-top: 79px !important;
+}
+footer {
+  background-color: #233148;
+  color: white;
+  margin: 0px auto;
+  padding: 0px;
+  height: 100px;
+}
+
+.footerArea {
+  width: 90%;
+}
+.footerText {
+  float: left;
+  margin-left: 25vh;
+  margin-top: 50px;
+  font-size: 15px;
+}
+.footerIcon {
+  float: right;
+  margin-right: 10px;
+  margin-top: 30px;
+}
+
+.footerIcon a {
+  font-size: 30px;
+  padding: 25px;
+}
